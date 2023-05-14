@@ -10,3 +10,7 @@ notebook contains the interactive model.
 The main attraction is indeed this interactive model which is seen below.
 ![SEMF Model](./example-figures/custom-model.png)
 
+## Todo List
+- [ ] Either figure out how [Binder](https://github.com/fonsp/pluto-on-binder) works with Pluto notebooks, or perhaps translate the
+interactive model to Javascript so the model can be hosted on a website. Binder is probably the easier option.
+
